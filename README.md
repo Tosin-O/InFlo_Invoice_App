@@ -57,6 +57,6 @@ This project is **frontend-only** and does not include backend integration or pe
 ## 👨‍💻 Author
 
 **Tosin O.**
-Full Stack Developer | Mobile App Enthusiast
+Full Stack Developer | Aspiring Software Engineer
 
 ---
